@@ -59,6 +59,17 @@ Computer Engineering graduate building production-ready systems at the intersect
 ### 📊 GitHub Analytics
 
 <div align="center">
+  <img 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Varun311004&show_icons=true&theme=react&rank_icon=github&border_radius=10" 
+    alt="GitHub Stats"
+    height="150"
+  />
+  <img 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Varun311004&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" 
+    alt="Top Languages"
+    height="150"
+  />
+  </br>
   <img src="https://streak-stats.demolab.com?user=Varun311004&amp;theme=transparent&amp;hide_border=true&amp;stroke=2196F3&amp;ring=2196F3&amp;fire=f85149&amp;currStreakLabel=2196F3&amp;sideNums=8b949e&amp;dates=8b949e&amp;sideLabels=8b949e" alt="GitHub Streak" />
 </div>
 
@@ -67,7 +78,7 @@ Computer Engineering graduate building production-ready systems at the intersect
 ### 🤝 Let's Connect
 
 <div align="center">
-  <a href="https://linkedin.com/in/varunjoshi3110"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>&nbsp;&nbsp;<a href="mailto:varunjoshi311004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Gmail" /></a>
+  <a href="https://linkedin.com/in/varunjoshi3110"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>&nbsp;&nbsp;<a href="https://github.com/Varun311004"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a>
 </div>
 <br/>
 
