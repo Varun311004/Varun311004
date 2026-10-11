@@ -16,14 +16,17 @@ Computer Engineering graduate building production-ready systems at the intersect
 
 ---
 
-### 🔭 Currently Building
+### Featured Projects
 
-| Project | Stack | What it does |
-| :--- | :--- | :--- |
-| **🏗️ Cortexa** | Flutter · React · Node.js · MongoDB | Secure, multi-tenant educational platform |
-| **🧠 RAG Pipelines** | Python · LangChain | Hybrid AI workflows & document intelligence |
-| **📱 BLoC Patterns** | Dart · Flutter | Optimized state management for mobile |
+- **[Cortexa](https://github.com/vednav9/cortexa)** — A multi-tenant educational platform with document-based AI Q&A, MCQ generation, and speech-to-text. My contributions included the Flutter app and retrieval pipeline. [Live Demo](https://cortexa-ai-project.vercel.app/)
 
+- **[Elevate](https://github.com/Varun311004/Elevate)** — An adaptive STEM learning platform. Built the Flask/PostgreSQL backend and adaptive-learning logic as part of a three-person team. [Live Demo](https://elevate-frontend-9dhh.onrender.com/)
+
+- **[DigiResult](https://github.com/Varun311004/DigiResult)** — A PHP and MySQL student result portal with OTP-based authentication and academic result management. [Live Demo](https://digiresult.byethost16.com/)
+
+- **[FindEasy](https://github.com/Varun311004/FindEasy)** — A Flutter and Firebase mobile app for location-based service discovery and bookings. [Android Release](https://github.com/Varun311004/FindEasy/releases/tag/v1.0.0)
+
+- **[Portfolio Website](https://portfolio-ashen-five-63.vercel.app/)** — My personal portfolio showcasing my projects, skills, and professional experience. [Source Code](https://github.com/Varun311004/Portfolio)
 ---
 
 ### 🛠️ Tech Stack
