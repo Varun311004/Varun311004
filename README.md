@@ -26,7 +26,7 @@ Computer Engineering graduate building production-ready systems at the intersect
 
 - **[FindEasy](https://github.com/Varun311004/FindEasy)** — A Flutter and Firebase mobile app for location-based service discovery and bookings. [Android Release](https://github.com/Varun311004/FindEasy/releases/tag/v1.0.0)
 
-- **[Portfolio Website](https://portfolio-ashen-five-63.vercel.app/)** — My personal portfolio showcasing my projects, skills, and professional experience. [Source Code](https://github.com/Varun311004/Portfolio)
+- **[Portfolio Website](https://portfolio-ashen-five-63.vercel.app/)** — My personal portfolio showcasing my projects, skills, and professional experience. [Live link](https://portfolio-ashen-five-63.vercel.app/)
 ---
 
 ### 🛠️ Tech Stack
