@@ -62,18 +62,21 @@ Computer Engineering graduate building production-ready systems at the intersect
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img 
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Varun311004&show_icons=true&theme=react&rank_icon=github&border_radius=10" 
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=Varun311004&amp;show_icons=true&amp;theme=react&amp;rank_icon=github&amp;border_radius=10"
     alt="GitHub Stats"
     height="150"
   />
-  <img 
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Varun311004&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" 
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Varun311004&amp;hide=HTML&amp;langs_count=8&amp;layout=compact&amp;theme=react&amp;border_radius=10&amp;size_weight=0.5&amp;count_weight=0.5&amp;exclude_repo=github-readme-stats"
     alt="Top Languages"
     height="150"
   />
-  </br>
-  <img src="https://streak-stats.demolab.com?user=Varun311004&amp;theme=transparent&amp;hide_border=true&amp;stroke=2196F3&amp;ring=2196F3&amp;fire=f85149&amp;currStreakLabel=2196F3&amp;sideNums=8b949e&amp;dates=8b949e&amp;sideLabels=8b949e" alt="GitHub Streak" />
+  <br />
+  <img
+    src="https://streak-stats.demolab.com?user=Varun311004&amp;theme=transparent&amp;hide_border=true&amp;stroke=2196F3&amp;ring=2196F3&amp;fire=f85149&amp;currStreakLabel=2196F3&amp;sideNums=8b949e&amp;dates=8b949e&amp;sideLabels=8b949e"
+    alt="GitHub Streak"
+  />
 </div>
 
 ---
